@@ -1,2 +1,2 @@
 # latihan-branch
-*Perubahan branch
+*Perubahan branch 22
